@@ -113,10 +113,6 @@ If you find HashPing helpful, consider supporting the project. Your contribution
 - **SHA256**: `7fbb44e4d5b172b81845b6e7868251eb261487014b0397930073fe4dbab35a0b`
 - **MD5**: `18f857810bbf2c890a82f5c1f6bf982c`
 
-### Executable (HashPing.exe)
-- **SHA256**: `a981d1bbdd52f7000d71dc598cacf50e0feb3e2f39ce9b68dd28deae2914931c`
-- **MD5**: `19d23ca53836ddcfa328245de7d293ea`
-
 **Note**: Other hashes may indicate that the file has been altered or is corrupted.
 
 ---
