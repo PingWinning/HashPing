@@ -1,10 +1,10 @@
 # HashPing
 
-![HashPing Logo](pingwining.jpg)
+![image](https://github.com/user-attachments/assets/c7fae44d-672e-4f77-8c4b-babdc6e96fc5)
 
 ## Overview
 
-**HashPing** is a professional hash verification tool designed for developers, cybersecurity experts, and individuals concerned with ensuring file integrity. Built with Python and a user-friendly graphical interface, HashPing simplifies the process of calculating and comparing file hashes, helping you verify authenticity and detect modifications effortlessly.
+**HashPing** is a hash verification tool designed for developers, cybersecurity experts, and individuals concerned with ensuring file integrity. Built with Python and a user-friendly graphical interface, HashPing simplifies the process of calculating and comparing file hashes, helping you verify authenticity and detect modifications effortlessly.
 
 ---
 
