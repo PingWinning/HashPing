@@ -78,24 +78,6 @@ Ensure Python 3.7+ is installed on your system.
 
 ---
 
-## Creating an Executable
-
-To create a standalone `.exe` file:
-
-1. Install PyInstaller:
-   ```bash
-   pip install pyinstaller
-   ```
-
-2. Build the executable:
-   ```bash
-   pyinstaller --onefile --windowed --icon=hash_icon.ico HashPing.py
-   ```
-
-3. The executable will be located in the `dist` folder.
-
----
-
 ## Contribution Guidelines
 
 Contributions are welcome! To contribute:
